@@ -1,0 +1,10 @@
+[package]
+name = "my_pest_parser_kma_protsap"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/DaimoniX/my_pest_parser_kma_protsap"
+
+[dependencies]
+anyhow = "1.0.91"
+pest = "2.7.14"
+pest_derive = "2.7.14"
